@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.33d40ef4bf8429a6c1cc3ededeebdb7f.js"
+  "/{{REPLACE}}/precache-manifest.bb160480b503da24f710c82281ca634e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cua-app"});
